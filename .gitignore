@@ -16,3 +16,5 @@ __pycache__/
 .venv/
 
 /data
+nlp/topic_models/data
+nlp/topic_models/*.bin
