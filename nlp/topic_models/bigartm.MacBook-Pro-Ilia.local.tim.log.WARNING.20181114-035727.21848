@@ -1,0 +1,6 @@
+Log file created at: 2018/11/14 03:57:27
+Running on machine: MacBook-Pro-Ilia.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1114 03:57:27.643059 2401215360 check_messages.h:1082] ThetaMatrix.topic_name_size is empty
+W1114 03:57:29.949215 2401215360 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 699777 vs 0 vs 699777 vs 0;
+W1114 03:59:09.054415 2401215360 check_messages.h:1082] Inconsistent fields size in ThetaMatrix: 699777 vs 0 vs 699777 vs 0;
